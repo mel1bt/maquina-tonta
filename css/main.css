@@ -1,0 +1,25 @@
+.fond-circle{
+    position: relative;
+    text-align: center;
+}
+.circle{
+     position: relative;
+     border-radius: 50%;
+     width: 100px;
+     height: 100px;
+     display: inline-block;
+     margin: 20px;
+}
+#blue{
+    background: blue;
+    border: 8px solid black;
+}
+#red{
+    background: red;
+    border: 8px solid black;
+}
+#yellow{
+    background: yellow;
+    border: 8px solid black;
+}
+
